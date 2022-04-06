@@ -1,5 +1,5 @@
 from tracemalloc import stop
-import Expense
+from . import Expense
 import matplotlib.pyplot as plt
 
 
